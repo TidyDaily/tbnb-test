@@ -32,8 +32,11 @@ React Native with expo SDK 37 or later</br>
 
 ### Code quality and project decisions about components, classes and tools used will be evaluated
 
-## Bonus:
-* Front-end tests
+## required:
+
 * Backend tests
 * UI framework like vuetify, vue-bootstrap or etc
-* Application deployment
+* Application deployment on aws, heroku or whatever
+
+## Bonous
+* Front-end tests
