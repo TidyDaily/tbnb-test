@@ -15,6 +15,7 @@
 * Unique identifier
 * Price
 * Quantity
+* image
 
 ## How to submit:
 Send an email to assaf@turnoverbnb.com with the link of your repository
