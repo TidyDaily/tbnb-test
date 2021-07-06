@@ -34,5 +34,5 @@ React Native with expo SDK 37 or later</br>
 * Application deployment on aws, heroku or whatever
 * mobile friendly
 
-## Bonous
+## Bonus
 * "simulated price" feature - click a button to simulate a new day worth of data for all stocks on the system. each stock should increase or decrease by some random amount, but appear natural based on existing data if exists.
